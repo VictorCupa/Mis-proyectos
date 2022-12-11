@@ -1,0 +1,1 @@
+print("hola soy victor cupa y estoy aprendiendo a programar")#funcion impirmir en python#
